@@ -122,7 +122,7 @@ components:
           example: "JRR Tolkien"
         city:
           type: string
-          example: "jrr@tolkien.com"
+          example: "New York City"
     Publisher:
       type: object
       properties:
@@ -134,7 +134,7 @@ components:
           example: "JRR Tolkien"
         city:
           type: string
-          example: "jrr@tolkien.com"
+          example: "New York City"
     AllPublishers:
       type: array
       items:
